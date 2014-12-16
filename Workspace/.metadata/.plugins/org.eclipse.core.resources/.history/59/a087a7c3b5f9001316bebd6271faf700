@@ -1,0 +1,27 @@
+package com.snowvsman;
+
+public class SVMMainPC 
+{
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) 
+	{
+        // The only requirements for a programmer to use MHFramework
+        // are these:
+        
+        // 1.  One screen (minimum).  If you do not provide one, the
+        //     Screen manager will create a placeholder. Of course,
+        //     your app will have no UI in this case.
+        MHScreen startingScreen = new TestScreen();
+        
+        // 2.  Video settings to determine screen resolution, etc.
+        MHVideoSettings displaySettings = new MHVideoSettings();
+        displaySettings.displayWidth = 800;
+        displaySettings.displayHeight = 480;
+
+        // 3.  Pass the above two things into the engine along with
+        //     the window the app will run in.
+        MHPCPlatform.run(new JFrame(), startingScreen, displaySettings);
+	}
+}

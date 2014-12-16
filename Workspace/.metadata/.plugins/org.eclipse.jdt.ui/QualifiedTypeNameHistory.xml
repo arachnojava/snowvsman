@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.mhframework.ui.MHButton"/>
+<fullyQualifiedTypeName name="com.mhframework.core.math.geom.MHRectangle"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.tilemap.view.MHTileMapView.Type"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.tilemap.io.MHWorldIO"/>
+<fullyQualifiedTypeName name="com.mhframework.platform.graphics.MHFont"/>
+<fullyQualifiedTypeName name="com.snowvsman.towers.SVMTower"/>
+<fullyQualifiedTypeName name="com.mhframework.core.math.MHVector"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.tilemap.MHITileMapContent"/>
+<fullyQualifiedTypeName name="com.mhframework.platform.event.MHInputEventHandler"/>
+<fullyQualifiedTypeName name="com.mhframework.platform.MHPlatform"/>
+<fullyQualifiedTypeName name="com.mhframework.MHGame"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.actor.MHActorList"/>
+<fullyQualifiedTypeName name="com.snowvsman.SVMGameScreen"/>
+<fullyQualifiedTypeName name="com.mhframework.core.math.MHRandom"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.actor.MHTileMapActor"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.tilemap.view.MHIsoMouseMap"/>
+<fullyQualifiedTypeName name="com.mhframework.platform.graphics.MHColor"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.tilemap.MHTileSet"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.tilemap.MHTileMapDirection"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.os.Environment"/>
+<fullyQualifiedTypeName name="com.mhframework.MHScreenManager"/>
+<fullyQualifiedTypeName name="com.snowvsman.towers.SVMCampFire"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.tilemap.view.MHTilePlotter"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.tilemap.view.MHTileWalker"/>
+<fullyQualifiedTypeName name="com.snowvsman.characters.SVMSnowman"/>
+<fullyQualifiedTypeName name="com.mhframework.gameplay.tilemap.MHLayersEnum"/>
+<fullyQualifiedTypeName name="com.mhframework.resources.MHResourceManager"/>
+</qualifiedTypeNameHistroy>

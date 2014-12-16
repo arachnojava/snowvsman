@@ -1,0 +1,13 @@
+package com.snowvsman;
+
+public class SVMMainPC 
+{
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) 
+	{
+		
+	}
+}

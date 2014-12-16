@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;level&apos; in &apos;com.snowvsman.towers.SVMTowerBase&apos; to &apos;towerClass&apos;&#x0D;&#x0A;- Original project: &apos;SnowVsMan&apos;&#x0D;&#x0A;- Original element: &apos;com.snowvsman.towers.SVMTowerBase.level&apos;&#x0D;&#x0A;- Renamed element: &apos;com.snowvsman.towers.SVMTowerBase.towerClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;level&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.snowvsman.towers{SVMTowerBase.java[SVMTowerBase^level" name="towerClass" references="true" setter="false" stamp="1404599545544" textual="false" version="1.0"/>
+</session>
